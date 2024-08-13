@@ -1,82 +1,32 @@
-<h1 align="center">Hello Guys! We Are Intellix! 👁️</h1>
+<p align="center">
+  <img src="./background.jpg">
+</p>
 
-<div align="center">
-<a href="https://Intellix.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
-</div>
+# Welcome here
 
-<h4 align="center">
-  <b><a href="https://Intellix.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://Intellix.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://Intellix.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://Intellix.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://Intellix.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://Intellix.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://Intellix.io/blog">Blog</a>
-  •
-  <a href="https://Intellix.io/docs">API</a>
-  •
-  <a href="https://twitter.com/Intellix">Twitter</a>
-</h3>
+My name is Héber Júlio . I'm an Security Researcher with professional experience (main job) ,Fullstack and Mobile developer. I'm from Angola, living in Luanda.
 
-## Introduction
+### Find me!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/kurogai)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/h%C3%A9ber-j%C3%BAlio-496120190/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='40'>](https://www.facebook.com/heber.julio.165)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/kurogai_pwn)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+## Hackthebox Progress
+<img src="http://www.hackthebox.eu/badge/image/290062" alt="Hack The Box">
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+### Languages and Tools 🛠 
+---
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
-For all charming widgets, please [Check it out 👉](https://next.Intellix.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
-
-
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.Intellix.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.Intellix.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
-
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.Intellix.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.Intellix.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.Intellix.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.Intellix.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.Intellix.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.Intellix.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
-
-## Contact us
-
-<a href="https://twitter.com/Intellix" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
-<a href="https://github.com/pingcap/Intellix/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:Intellix@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=Intellix&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+## Want to support my work?
+[<a href="https://www.buymeacoffee.com/heberjuliok" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>](https://www.buymeacoffee.com/heberjuliok)
