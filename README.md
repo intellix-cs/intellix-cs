@@ -7,9 +7,9 @@
 My name is Intellix . I'm an Security Researcher with professional experience (main job) ,Bug hunter. I'm from India, living in Delhi.
 
 ### Find me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/kurogai)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/h%C3%A9ber-j%C3%BAlio-496120190/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='40'>](https://www.facebook.com/heber.julio.165)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/intellix-cs)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](http://www.linkedin.com/in/rudraksh031a62320/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' height='40'>](https://www.facebook.com/heber.julio.165)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/kurogai_pwn)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
