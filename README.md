@@ -4,7 +4,7 @@
 
 # Welcome here
 
-My name is Héber Júlio . I'm an Security Researcher with professional experience (main job) ,Fullstack and Mobile developer. I'm from Angola, living in Luanda.
+My name is Intellix . I'm an Security Researcher with professional experience (main job) ,Bug hunter. I'm from India, living in Delhi.
 
 ### Find me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/kurogai)
@@ -13,8 +13,8 @@ My name is Héber Júlio . I'm an Security Researcher with professional experien
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/kurogai_pwn)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
-## Hackthebox Progress
-<img src="http://www.hackthebox.eu/badge/image/290062" alt="Hack The Box">
+#### Hackthebox Progress
+##<img src="http://www.hackthebox.eu/badge/image/290062" alt="Hack The Box">
 
 ### Languages and Tools 🛠 
 ---
