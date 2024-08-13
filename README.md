@@ -12,7 +12,7 @@ My name is Intellix . I'm an Security Researcher with professional experience (m
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' height='40'>](intellix.cs@gmail.com)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height='40'>](https://youtube.com/@intellix-cs)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height='40'>](https://www.instagram.com/intellix.cs)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' height='40'>](https://linktr.ee/intellix.cs)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linktree.svg' height='40'>](https://linktr.ee/intellix.cs)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
 #### Hackthebox Progress
