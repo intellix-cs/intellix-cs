@@ -4,13 +4,15 @@
 
 # Welcome here
 
-My name is Intellix . I'm an Security Researcher with professional experience (main job) ,Bug hunter. I'm from India, living in Delhi.
+My name is Intellix . I'm an Security Researcher with professional experience (main job), Bug hunter. I'm from India, living in Delhi.
 
 ### Find me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/intellix-cs)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](http://www.linkedin.com/in/rudraksh031a62320/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' height='40'>](https://www.facebook.com/heber.julio.165)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/kurogai_pwn)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' height='40'>](intellix.cs@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height='40'>](https://youtube.com/@intellix-cs)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height='40'>](https://www.instagram.com/intellix.cs)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' height='40'>](https://linktr.ee/intellix.cs)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
 #### Hackthebox Progress
@@ -20,11 +22,6 @@ My name is Intellix . I'm an Security Researcher with professional experience (m
 ---
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
