@@ -15,7 +15,7 @@ My name is Intellix . I'm an Security Researcher with professional experience (m
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
 #### Support me 
-<img src="./background.jpg" alt="Hack The Box">
+<img src="./bmr_qr.png" alt="Hack The Box">
 
 ### Languages and Tools 🛠 
 ---
